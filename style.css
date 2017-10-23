@@ -10,3 +10,18 @@ body{
     grid-auto-rows: minmax(100px,auto);
 }
 
+.quote-text{
+    background-color: blue;
+}
+
+.quote-author{
+    background-color: cyan;
+}
+
+.generate-quote{
+    background-color: skyblue;
+}
+
+.tweet-quote{
+    background-color: blueviolet;
+}
